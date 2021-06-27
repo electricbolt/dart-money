@@ -2,7 +2,7 @@
 // Money Copyright © 2021; Electric Bolt Limited.
 
 import 'package:test/test.dart';
-import 'package:money/src/currencymanager.dart';
+import 'package:moneycurrency/src/currencymanager.dart';
 
 void main() {
   test('singleton', () {

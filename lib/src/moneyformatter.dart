@@ -2,10 +2,10 @@
 // Money Copyright © 2021; Electric Bolt Limited.
 
 import 'package:decimal/decimal.dart';
-import 'package:money/src/decimalbuilder.dart';
-import 'package:money/src/stringutil.dart';
-import 'package:money/src/currency.dart';
-import 'package:money/src/currencymanager.dart';
+import 'decimalbuilder.dart';
+import 'stringutil.dart';
+import 'currency.dart';
+import 'currencymanager.dart';
 
 /// MoneyParseException is thrown on errors when parsing String amounts into
 /// Decimal values using the parse(String) method.

@@ -2,7 +2,7 @@
 // Money Copyright © 2021; Electric Bolt Limited.
 
 import 'package:test/test.dart';
-import 'package:money/src/currency.dart';
+import 'package:moneycurrency/src/currency.dart';
 
 void main() {
   test('currency', () {

@@ -2,8 +2,8 @@
 // Money Copyright © 2021; Electric Bolt Limited.
 
 import 'package:decimal/decimal.dart';
-import 'package:money/src/currencymanager.dart';
-import 'package:money/src/money.dart';
+import 'package:moneycurrency/src/currencymanager.dart';
+import 'package:moneycurrency/src/money.dart';
 import 'package:test/test.dart';
 
 void main() {

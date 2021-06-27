@@ -2,10 +2,10 @@
 // Money Copyright © 2021; Electric Bolt Limited.
 
 import 'package:decimal/decimal.dart';
-import 'package:money/money.dart';
-import 'package:money/src/currency.dart';
-import 'package:money/src/currencymanager.dart';
-import 'package:money/src/moneyformatter.dart';
+import 'package:moneycurrency/money.dart';
+import 'package:moneycurrency/src/currency.dart';
+import 'package:moneycurrency/src/currencymanager.dart';
+import 'package:moneycurrency/src/moneyformatter.dart';
 import 'package:test/test.dart';
 
 late Currency currency;

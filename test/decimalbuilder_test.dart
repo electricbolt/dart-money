@@ -2,7 +2,7 @@
 // Money Copyright © 2021; Electric Bolt Limited.
 
 import 'package:decimal/decimal.dart';
-import 'package:money/src/decimalbuilder.dart';
+import 'package:moneycurrency/src/decimalbuilder.dart';
 import 'package:test/test.dart';
 
 void expectAmount(String expectedAmount, Decimal actualAmount) {

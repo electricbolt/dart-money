@@ -2,8 +2,7 @@
 // Money Copyright © 2021; Electric Bolt Limited.
 
 import 'package:decimal/decimal.dart';
-import 'package:money/src/moneyformatter.dart';
-
+import 'moneyformatter.dart';
 import 'currency.dart';
 
 /// A Money is a value object that represents an amount and an associated
