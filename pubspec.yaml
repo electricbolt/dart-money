@@ -1,4 +1,4 @@
-name: money
+name: moneycurrency
 description: Money and Currency library for Dart.
 version: 1.0.0
 homepage: https://github.com/electricbolt/dart-money
