@@ -1,5 +1,5 @@
 // currency.dart
-// Money Copyright © 2021; Electric Bolt Limited.
+// MoneyCurrency Copyright © 2021; Electric Bolt Limited.
 
 class Currency implements Comparable {
   /// 3 character ISO-4217 currency code. e.g. "NZD"

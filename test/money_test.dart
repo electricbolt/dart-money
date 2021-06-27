@@ -1,5 +1,5 @@
 // money_test.dart
-// Money Copyright © 2021; Electric Bolt Limited.
+// MoneyCurrency Copyright © 2021; Electric Bolt Limited.
 
 import 'package:decimal/decimal.dart';
 import 'package:moneycurrency/src/currencymanager.dart';

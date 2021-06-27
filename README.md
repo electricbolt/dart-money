@@ -26,7 +26,7 @@ converted to and from strings.
 Import the library into your Dart code using:
 
 ```dart
-import 'package:moneycurrency/money.dart';
+import 'package:moneycurrency/moneycurrency.dart';
 ```
 
 #### Money example

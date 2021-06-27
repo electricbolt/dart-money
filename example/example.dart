@@ -1,7 +1,7 @@
 // example.dart
 // Money Copyright © 2021; Electric Bolt Limited.
 
-import 'package:moneycurrency/money.dart';
+import 'package:moneycurrency/moneycurrency.dart';
 
 void main() {
   var NZD = CurrencyManager().get('NZD')!;

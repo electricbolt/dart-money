@@ -1,8 +1,8 @@
 // moneyformatteraccessibility_test.dart
-// Money Copyright © 2021; Electric Bolt Limited.
+// MoneyCurrency Copyright © 2021; Electric Bolt Limited.
 
 import 'package:decimal/decimal.dart';
-import 'package:moneycurrency/money.dart';
+import 'package:moneycurrency/moneycurrency.dart';
 import 'package:moneycurrency/src/currency.dart';
 import 'package:moneycurrency/src/currencymanager.dart';
 import 'package:moneycurrency/src/moneyformatter.dart';

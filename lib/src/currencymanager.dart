@@ -1,5 +1,5 @@
 // currencymanager.dart
-// Money Copyright © 2021; Electric Bolt Limited.
+// MoneyCurrency Copyright © 2021; Electric Bolt Limited.
 
 import 'currency.dart';
 

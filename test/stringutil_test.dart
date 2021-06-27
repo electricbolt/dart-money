@@ -1,5 +1,5 @@
 // stringutil_test.dart
-// Money Copyright © 2021; Electric Bolt Limited.
+// MoneyCurrency Copyright © 2021; Electric Bolt Limited.
 
 import 'package:test/test.dart';
 import 'package:moneycurrency/src/stringutil.dart';

@@ -1,5 +1,5 @@
 // stringutil.dart
-// Money Copyright © 2021; Electric Bolt Limited.
+// MoneyCurrency Copyright © 2021; Electric Bolt Limited.
 
 /// Internal class used during parsing and formatting Decimal amounts.
 
