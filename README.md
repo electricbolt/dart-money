@@ -7,7 +7,7 @@ A Money is a value object that represents an amount and an associated currency. 
 and for this reason, amounts have notion of being unavailable.
 
 This library is open source (BSD-2). Development occurs on [GitHub](https://github.com/electricbolt/dart-money).
-Package is hosted on dart [packages](https://pub.dev/packages/money).
+Package is hosted on dart [packages](https://pub.dev/packages/moneycurrency).
 
 Looking for an Swift [implementation](https://github.com/electricbolt/corekit)?.
 
