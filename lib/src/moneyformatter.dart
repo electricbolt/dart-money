@@ -3,7 +3,6 @@
 
 import 'package:decimal/decimal.dart';
 import 'package:money/src/decimalbuilder.dart';
-import 'package:money/src/money.dart';
 import 'package:money/src/stringutil.dart';
 import 'package:money/src/currency.dart';
 import 'package:money/src/currencymanager.dart';
